@@ -10,6 +10,6 @@ fs.readFile('input.txt', 'ascii', (err, data) => {
         console.log(num1 * num2);
         return;
       }
-    })
-  })
+    });
+  });
 });
