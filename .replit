@@ -1,0 +1,2 @@
+language = "javascript"
+run = "cd day2 && nodejs p1.js"
