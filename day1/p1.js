@@ -8,7 +8,6 @@ fs.readFile('input.txt', 'ascii', (err, data) => {
       if (num1 + num2 === 2020) {
         console.log([num1, num2]);
         console.log(num1 * num2);
-        return;
       }
     });
   });
