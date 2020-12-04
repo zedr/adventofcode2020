@@ -1,2 +1,2 @@
 language = "javascript"
-run = "cd day3 && nodejs p2.js"
+run = "cd day4 && nodejs p1.js"
